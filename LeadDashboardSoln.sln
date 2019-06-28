@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LeadDashboradWeb", "LeadDashboradWeb\", "{3023B946-2B4A-4C58-8545-256188E6973F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/LeadDashboradWeb"
+		Debug.AspNetCompiler.PhysicalPath = "LeadDashboradWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\LeadDashboradWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/LeadDashboradWeb"
+		Release.AspNetCompiler.PhysicalPath = "LeadDashboradWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\LeadDashboradWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52477"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3023B946-2B4A-4C58-8545-256188E6973F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3023B946-2B4A-4C58-8545-256188E6973F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
