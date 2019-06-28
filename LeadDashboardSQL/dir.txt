@@ -1,0 +1,43 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1CEE-B403
+
+ Directory of C:\ASP_NET_Projects\LeadDashboardSoln\LeadDashboardSQL
+
+07/12/2010  10:36 AM    <DIR>          .
+07/12/2010  10:36 AM    <DIR>          ..
+07/06/2010  04:49 PM    <DIR>          archive
+07/12/2010  10:36 AM                 0 dir.txt
+07/02/2010  10:06 AM               504 qryList_usp_uv.sql
+07/09/2010  09:23 AM             2,514 qryRenormalize.sql
+07/08/2010  05:15 PM               450 qrySampDate.sql
+07/06/2010  03:14 PM             1,150 ufn_Last3Months.sql
+07/08/2010  05:27 PM             1,041 usp_ActiveCases.sql
+07/09/2010  10:13 AM             2,372 usp_Average_Case_WorkLoad.sql
+07/09/2010  09:51 AM               650 usp_Average_Case_WorkLoad_ByWorker.sql
+07/09/2010  11:01 AM               510 usp_CaseLoad_ByWorker.sql
+07/08/2010  06:05 PM             2,512 usp_Chart_CaseClosed_ByMonth.sql
+07/09/2010  10:02 AM             2,262 usp_Chart_CaseClosed_ByYear.sql
+07/09/2010  09:44 AM               574 usp_Chart_CaseDuration_ByWorker.sql
+06/30/2010  01:20 PM               858 usp_Chart_CaseDuration_ByYears.sql
+07/06/2010  10:16 AM               625 usp_Chart_CaseOpened_ByYear.sql
+06/30/2010  01:20 PM             1,872 usp_Chart_CasesOpened_ByMonth.sql
+07/09/2010  11:42 AM             1,916 usp_Chart_FirstVisitCompletedOnTime.sql
+07/07/2010  08:51 AM             2,372 usp_Chart_TimeToFirstVisit_Required_vs_Actual.sql
+07/09/2010  05:07 PM             8,630 usp_Check.xlsx
+06/30/2010  01:20 PM             2,062 usp_LabResults.sql
+07/09/2010  03:50 PM               861 usp_LeadLevelByMonth.sql
+07/09/2010  10:07 AM               647 usp_OpenAndClosedCases_Count.sql
+06/30/2010  01:20 PM             1,500 usp_Open_Cases_By_Worker.sql
+07/09/2010  11:01 AM               973 usp_Sample_by_Leadlevel.sql
+07/06/2010  10:14 AM               311 usp_Shell.sql
+06/30/2010  02:43 PM             1,035 usp_TopTen_BLL.sql
+06/30/2010  04:21 PM               458 uv_ActiveCaseCount.sql
+07/06/2010  04:46 PM             1,025 uv_ActiveCases.sql
+07/09/2010  01:38 PM             1,201 uv_ChildLastSampleByMonth.sql
+07/09/2010  12:27 PM               814 uv_ChildLastSampleDateByMonth.sql
+07/07/2010  08:51 AM             1,088 uv_ClosedCases.sql
+07/02/2010  12:11 PM               409 uv_OpenCases.sql
+07/07/2010  08:51 AM               277 uv_Shell.sql
+07/02/2010  12:31 PM               373 uv_TotalCases.sql
+              33 File(s)         43,846 bytes
+               3 Dir(s)  171,850,498,048 bytes free
